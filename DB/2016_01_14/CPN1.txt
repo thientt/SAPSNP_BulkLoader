@@ -1,0 +1,7 @@
+Material List
+ATMEL CORPORATION Confidential Information
+Transaction
+Data Time Stamp   01/13/2016  17:36:55
+Total Records                                                               1
+Material	Material description	Plnt	Die	Product pa	Package le	Type	Prod.Desc	Profit Ctr	Profit Cen	Location	Name	MRPCn	Product de	Business P	Business P	PrCtr	Production	Demand Pla	Demand Pla	HTS Description	DIE2	DIE3	DIE4	DIE5	External d	Prefix	Division	Lead Time	Mat Status	MatStsDesc	Min OrdQty	Min DelQty	Deliv.unit	Sample	EE Prom Co	External o	FG Type	Flash cod	Generic sp	Green	Lead Type	Particular	Product as	Product pr	Product Po	Product sp	Product su	Project co	ROM Code	Royalty	ECCN	ECCN sub(S	HTS #	Sch B #	Technology	Change	Last chg	Created	Created on	Grouping	Crcy	E Code	Country Na	Country of	Proc.Type	Proc.Type	Ext.Proc (	In-House T	B. Unit	Printflag	Product Warning	MSL	Out of bag	PB Free	Max Reflow	Root Part	Product hierarchy	B.Unit Des
+XMEGA128A3-AUR	64TQFP, IND TEMP, GREEN, 1.6-3.6V, T&R	ACP5	35954	A	64	U	MCU AVR	8	MCU AVR	SJO5	Lion Lai - Non MXT	B90	U	PEN	SAILESH MAGANLAL	D99	No Demand Planner	ALL	NONE	ELEC INTG CIRCT PROCESSOR;CONTROLLER					XMEGA128A3	AT	10	      42	00	Active	    0.000	    0.000	1,000.000	X											18-36						5A992	C	8542.31.0000	8542.31.0000	35.9K	ADMINBATCH	09/30/2015	TFRANCOIS	04/15/2009	NLR	USD	e3			X	Both procurement types	       42	       42	00013	P	DS	3	168 hours	Y	260	XMEGA128A3	000130000600030000	MICROCONTROLLERS
